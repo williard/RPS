@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=tie\ UserTies
+comment0.target=int\ UserTieCount(boolean,\ int)
+comment1.params=win\ UserWins
+comment1.target=int\ UserWinCount(boolean,\ int)
+comment2.params=loss\ UserLosses
+comment2.target=int\ UserLossCount(boolean,\ int)
+numComments=3
